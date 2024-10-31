@@ -21,5 +21,16 @@ O **Todo** foi desenvolvido para ajudar na organização e no acompanhamento de 
 Para rodar a aplicação localmente, siga as etapas abaixo:
 
 1. Clone o repositório:
-
+ https://github.com/ericafarias/Todo-com-Redux.git
+2. Navegue até o diretório do projeto:
+   cd Todo-com_Redux
+3. Instale as dependências:
+    npm install
+4. Inicie o servidor de desenvolvimento:
+    npm rum dev
+## Como Usar
+1. Adicionar Tarefas: Use o campo de entrada para criar uma nova tarefa.
+2. Marcar Como Concluída: click em cima da tarefa para marcar como concluída.
+3. Excluir: Clique no botão de exclusão para remover uma tarefa.
+4. Filtrar Tarefas: Use os filtros para exobir todas ou apenas as tarefas concluídas ou não concluídas.
 
